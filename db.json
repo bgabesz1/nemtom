@@ -3,8 +3,8 @@
     {
       "id": 1,
       "UserName": "Username",
-      "Password":"password",
-      "Email":asd@gmail.com
+      "Password": "password",
+      "Email": "asd@gmail.com"
     }
   ],
   "profile": {
